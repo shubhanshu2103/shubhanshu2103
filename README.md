@@ -25,6 +25,11 @@ AI/ML and full-stack engineer. I build GenAI products end to end: the models, th
 
 ## Skills
 
+<img src="assets/assets/engineering-stack.svg" width="100%" alt="Engineering stack: generative AI, agents, model work, backend, frontend, databases, languages, ML, visualization and developer tools" />
+
+<details>
+<summary>View the full stack as text</summary>
+
 **Languages:** Python, TypeScript, JavaScript, SQL, Go, C++, C#
 
 **Generative AI:** multi-agent systems, RAG pipelines, agent memory layers, prompt and context engineering, LLM evaluation
@@ -35,11 +40,17 @@ AI/ML and full-stack engineer. I build GenAI products end to end: the models, th
 
 **Machine learning:** scikit-learn, imbalanced-learn (SMOTE), data analysis with Jupyter, Streamlit
 
-**Backend:** FastAPI, REST APIs, Node.js, Supabase, PostgreSQL
+**Backend:** FastAPI, REST APIs, Node.js, Express.js, Supabase
+
+**Databases:** PostgreSQL, MySQL, SQLite, MongoDB, vector databases, DBMS
+
+**Data visualization:** Tableau
 
 **Frontend:** React, Next.js, Vite, Tailwind CSS, GSAP
 
 **Tools:** Git, GitHub, Linux, Docker
+
+</details>
 
 ## Work with me
 
